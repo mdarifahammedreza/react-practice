@@ -1,0 +1,7 @@
+.box {
+  border: 2px solid indianred;
+  margin: 15px;
+  border-radius: 10px;
+  padding: 15px;
+  background-color: indigo;
+}
